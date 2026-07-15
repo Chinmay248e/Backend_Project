@@ -1,0 +1,16 @@
+{
+  "name": "proj_backend",
+  "version": "1.0.0",
+  "description": "learinng",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Chinmay Shukla",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
